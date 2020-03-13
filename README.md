@@ -10,6 +10,7 @@ Note: this "datapackpack" will be compatible with vanilla worlds (that's the who
 * doFireTick false
 * doInsomnia false
 * doWeatherCycle false
+* doPatrolSpawning false
 
 **Carpet Mod Rules:**
 * stackableShulkerBoxes true [todo: replace with a datapack]
