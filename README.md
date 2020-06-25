@@ -1,6 +1,10 @@
 # DATAPACKS_LetsPlay by SurpriseTea
 A place to put a build of datapacks, resourcepacks etc from my DATAPACKS_LetsPlay series, once I'm confident enough in it. For now, here is a list of datapacks, resourcepacks, mods and rules I use in my Let's Play.
 
+** UPDATE: Once all mods, datapacks and resourcepacks I currently use will be confirmed stable in 1.16, I'll release a build.**
+ETA - July 2020.
+Enchanted Diamond Apple dataresourcepack is available for 1.15.2 and *should* work in 1.16 without any issues, but I need to test it more.
+
 Note: this "datapackpack" will be compatible with vanilla worlds (that's the whole point) and can be installed onto an existing world, unless it has other datapacks which somehow utilize mushroom blocks or rabit hides.
 
 **SEED: -5013863729322348709**
